@@ -1,0 +1,15 @@
+Info:
+
+Data Analysis project No.1
+Mahmoud Ali Hashem
+m73.hashem@gmail.com
+
+==========================
+
+Resources:
+
+1-Stack OverFlow Website
+
+2-Questions Hub/ Discourse
+
+3-Python Documentation
